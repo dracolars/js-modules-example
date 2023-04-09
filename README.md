@@ -33,6 +33,7 @@ which can be imported as:
 Or we can define default as a set of variables, then export it.
 
 `const default = { valueA, valueB, valueC } ; `
+
 `export default`
 
 which is the same as:
